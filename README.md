@@ -1,4 +1,4 @@
-# Notre Organisation - Développeur de List-Eat
+# DevTriade - AAP - Développeur de List-Eat
 
 Bienvenue sur la page officielle de notre organisation, à l'origine de **List-Eat**, une application révolutionnaire pour gérer vos listes de courses et partager vos recettes préférées au sein d'une communauté dynamique.
 
