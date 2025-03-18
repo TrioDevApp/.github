@@ -1,12 +1,16 @@
-## Hi there 👋
+# DevTriade - AAP - Développeur de List-Eat
 
-<!--
+Bienvenue sur la page officielle de notre organisation, à l'origine de **List-Eat**, une application révolutionnaire pour gérer vos listes de courses et partager vos recettes préférées au sein d'une communauté dynamique.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## À propos de nous
+
+Nous sommes une équipe de passionnés, composée de développeurs, designers et spécialistes de la cuisine, dédiée à créer des solutions numériques innovantes pour simplifier le quotidien. Notre objectif est de combiner technologie et convivialité pour améliorer l'expérience culinaire de nos utilisateurs.
+
+### Nos valeurs
+- **Innovation** : Nous repoussons les limites pour offrir des fonctionnalités uniques.
+- **Communauté** : Nous croyons en la force du partage et de la collaboration.
+- **Simplicité** : Nous concevons des interfaces intuitives et accessibles à tous.
+
+---
